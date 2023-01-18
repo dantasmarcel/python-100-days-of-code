@@ -11,5 +11,4 @@ week = (year_limit * 52) - (age_int * 52)
 day = (year_limit * 365) - (age_int * 365)
 
 message = (f"You have {day} days, {week} weeks, and {month} months left.")
-
 print(message)
